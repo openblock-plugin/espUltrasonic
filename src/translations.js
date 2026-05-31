@@ -20,20 +20,20 @@
 export default {
     'interface': {
         'en': {
-            'ultrasonic.name': 'Ultrasonic',
-            'ultrasonic.description': 'Standard ultrasonic distance measurement module.'
+            'espUltrasonic.name': 'Ultrasonic',
+            'espUltrasonic.description': 'Standard ultrasonic distance measurement module.'
         },
         'ru': {
-            'ultrasonic.name': 'Ultrasonic',
-            'ultrasonic.description': 'Standard ultrasonic distance measurement module.'
+            'espUltrasonic.name': 'Ultrasonic',
+            'espUltrasonic.description': 'Standard ultrasonic distance measurement module.'
         },
         'zh-cn': {
-            'ultrasonic.name': 'Ultrasonic',
-            'ultrasonic.description': 'Standard ultrasonic distance measurement module.'
+            'espUltrasonic.name': 'Ultrasonic',
+            'espUltrasonic.description': 'Standard ultrasonic distance measurement module.'
         },
         'zh-tw': {
-            'ultrasonic.name': 'Ultrasonic',
-            'ultrasonic.description': 'Standard ultrasonic distance measurement module.'
+            'espUltrasonic.name': 'Ultrasonic',
+            'espUltrasonic.description': 'Standard ultrasonic distance measurement module.'
         }
     },
     'extensions': {

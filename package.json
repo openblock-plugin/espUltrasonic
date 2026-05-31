@@ -22,7 +22,7 @@
   "openblock": {
     "name": {
       "formatMessage": {
-        "id": "ultrasonic.name",
+        "id": "espUltrasonic.name",
         "default": "Ultrasonic"
       }
     },
@@ -33,7 +33,7 @@
     "iconURL": "./assets/ultrasonic.png",
     "description": {
       "formatMessage": {
-        "id": "ultrasonic.description",
+        "id": "espUltrasonic.description",
         "default": "Standard ultrasonic distance measurement module."
       }
     },
