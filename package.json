@@ -1,6 +1,6 @@
 {
   "name": "esp-ultrasonic",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ArthurZheng",
   "license": "MIT",
   "repository": {
@@ -27,9 +27,8 @@
       }
     },
     "extensionId": "espUltrasonic",
-    "supportDevice": [
-      "microPythonEsp32",
-      "microPythonEsp8266"
+    "arch": [
+      "microPython*"
     ],
     "iconURL": "./assets/ultrasonic.png",
     "description": {
